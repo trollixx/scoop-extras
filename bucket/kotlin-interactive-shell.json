@@ -1,10 +1,10 @@
 {
-    "version": "0.5.1",
+    "version": "0.5.2",
     "description": "This shell is an extensible implementation of Kotlin REPL.",
     "homepage": "https://github.com/Kotlin/kotlin-interactive-shell",
     "license": "Apache-2.0",
-    "url": "https://github.com/Kotlin/kotlin-interactive-shell/releases/download/v0.5.1/ki-archive.zip",
-    "hash": "cc7cc8ac5c3b84b1be3420d99d50bbf906ec1cf981b1e3a46c1f51d02d75b504",
+    "url": "https://github.com/Kotlin/kotlin-interactive-shell/releases/download/v0.5.2/ki-archive.zip",
+    "hash": "9bd5697f9ec29cd63eaf0b503f46edce377bac73e46552aa12231ac5dbda21e4",
     "extract_dir": "ki",
     "bin": "bin\\ki.bat",
     "checkver": "github",
