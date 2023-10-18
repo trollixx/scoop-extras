@@ -1,5 +1,5 @@
 {
-    "version": "1.6.0",
+    "version": "1.6.1",
     "description": "Media server for comics/mangas/BDs with API and OPDS support",
     "homepage": "https://komga.org/",
     "license": "MIT",
@@ -10,8 +10,8 @@
         ]
     },
     "notes": "Default URL is http://localhost:25600",
-    "url": "https://github.com/gotson/komga/releases/download/v1.6.0/komga-1.6.0.jar#/komga.jar",
-    "hash": "b5dfde54b74d77b584ee0c39a6144cc2c89d7e6d6aa11baab81503c87d240dcd",
+    "url": "https://github.com/gotson/komga/releases/download/v1.6.1/komga-1.6.1.jar#/komga.jar",
+    "hash": "50f33e796011dede35e6e771d3fe48dec022380da41e5a70a434e40e7df70927",
     "bin": [
         [
             "komga.jar",
