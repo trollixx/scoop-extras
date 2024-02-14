@@ -1,17 +1,17 @@
 {
-    "version": "0.2.1",
+    "version": "0.2.0",
     "description": "Lightweight markdown viewer.",
     "homepage": "https://github.com/minodisk/markn/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/minodisk/markn/releases/download/v0.2.1/Markn-win32-x64.zip",
-            "hash": "ad3669dd0543b0371db199ea8716372b32cc1b77414f69b18588631e59f8bc65",
+            "url": "https://github.com/minodisk/markn/releases/download/v0.2.0/Markn-win32-x64.zip",
+            "hash": "7b755ae08f7ede0c67359547add06f929ddf38609c8b9f3dc02fad37c5025642",
             "extract_dir": "build\\Markn-win32-x64"
         },
         "32bit": {
-            "url": "https://github.com/minodisk/markn/releases/download/v0.2.1/Markn-win32-ia32.zip",
-            "hash": "a3974287ec5bc4b350e87f3387fdcbf956f5fc7e4d0116de6086b9f994788e53",
+            "url": "https://github.com/minodisk/markn/releases/download/v0.2.0/Markn-win32-ia32.zip",
+            "hash": "95ebf6a8f7dad74f2420303de260a8a012a4502ddbc1f29e000c2a00b8dd913f",
             "extract_dir": "build\\Markn-win32-ia32"
         }
     },
