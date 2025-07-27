@@ -1,10 +1,10 @@
 {
-    "version": "9.4.0",
+    "version": "9.7.1",
     "description": "A HDD/SSD utility software which supports a part of USB, Intel RAID and NVMe",
     "homepage": "https://crystalmark.info/en/software/crystaldiskinfo/",
     "license": "MIT",
-    "url": "https://crystalmark.info/download/zz/CrystalDiskInfo9_4_0.zip",
-    "hash": "ee8055ce4d06ee95ce260b2db252fb03d36def9a9be368d082e5734ad017ca8d",
+    "url": "https://crystalmark.info/download/zz/CrystalDiskInfo9_7_1.zip",
+    "hash": "6983556af7c84a73dbf1d1735df4d6659c8ae48e5d64ee49c1fb2eb9f83e3788",
     "pre_install": [
         "if (!(Test-Path \"$persist_dir\\DiskInfo.ini\")) { New-Item \"$dir\\DiskInfo.ini\" | Out-Null }",
         "# Manually persist AMD RAID plugins (AMD_RC2t7x64.dll, AMD_RC2t7x86.dll)",
