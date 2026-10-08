@@ -1,10 +1,10 @@
 {
-    "version": "1.26.0",
+    "version": "1.29.0",
     "description": "NVIDIA GPU driver updater",
     "homepage": "https://github.com/ElPumpo/TinyNvidiaUpdateChecker",
     "license": "GPL-3.0-or-later",
-    "url": "https://github.com/ElPumpo/TinyNvidiaUpdateChecker/releases/download/v1.26.0/TinyNvidiaUpdateChecker.exe",
-    "hash": "893a833fd570940b29c89479ef57fea7cafe36aced9cc9a8eacc167b1059661a",
+    "url": "https://github.com/ElPumpo/TinyNvidiaUpdateChecker/releases/download/v1.29.0/TinyNvidiaUpdateChecker.exe",
+    "hash": "221b0ef8a98f1e9c60d1ebbf7dfbe21785f93e4f0bcea14ac0b96463824b5111",
     "bin": "TinyNvidiaUpdateChecker.exe",
     "shortcuts": [
         [
