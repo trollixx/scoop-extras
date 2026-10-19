@@ -1,5 +1,5 @@
 {
-    "version": "6.2",
+    "version": "6.3",
     "description": "Color picker and color editor",
     "homepage": "https://annystudio.com/software/colorpicker/",
     "license": {
@@ -9,7 +9,7 @@
     "architecture": {
         "64bit": {
             "url": "https://annystudio.com/jcpicker.exe",
-            "hash": "5b3043406da50d21655d116063599ef39292c072b54403db22b5c97360f43f8c"
+            "hash": "7c379113bb72663515d5573ab4f5993710e10e2da55baa9fe2245ff5adfb9011"
         }
     },
     "pre_install": [
